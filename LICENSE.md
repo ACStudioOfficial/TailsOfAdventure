@@ -1,0 +1,1 @@
+Right now, there's no license, since there are plans to implement a separate license for "Tails of Adventure". For now, as a stub, we'll use Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
