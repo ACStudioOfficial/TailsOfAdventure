@@ -16,32 +16,37 @@ Every line of dialogue is constructed using the following formula:
 4. **Line Termination:** Each dialogue line __MUST__ end with a double space instead of a period. This ensures a "soft wrap" in Markdown.
 
 **Examples:**
-__Tails__: I like you cut G  
-__Tails__: *slaps* __Anton__: (screaming painfully)
+
+__Tails__: I like you cut G   
+[Tails slaps Anton]  
+__Anton__: (screaming painfully)
 
 ## 3. Actions and Stage Directions
 To mark a physical action, use an open square bracket followed by the character's name (without a colon) and the action:
 `[Name Action]`
 
-**Examples:**
-[Tails slaps Anton]
-__Lenka__ (screaming): SIX SEVEEEENNNNNNN  
-[__Lenka__ commits arson and other warcrimes against humanity in the of 67]
+**Examples:**  
+[Tails slaps Anton]  
+__Lenka__ (screaming): SIX SEVEEEENNNNNNN   
+[__Lenka__ commits arson and other warcrimes against humanity in the name of 67]  
 
 ## 4. Technical Details (SFX and Screen Text)
-Audio cues (SFX), on-screen text, or subtitles are formatted using a **double indentation** (two tabs or 8 spaces) to visually separate them from the dialogue.
+Audio cues (SFX), on-screen text, or subtitles are formatted using a **double indentation (two tabs or 8 spaces) to visually separate them from the dialogue. It can be used several times in in any part of the script, but you have to double-Enter to separate it from the script. Also, if the text does not become grey in GitHub editor, make sure that you have a clean line before your details
 
 **Example:**
-        SFX: Loud explosion in the background
-        TEXT: "67 hours later..."
+
+                SFX: Loud explosion in the background
+                TEXT: "67 hours later..."  
 __Tails__: I think we have arrived.  
 
 ## 5. Script Template Example:
 ## Episode: The Bread Riot 
 
-        SFX: Glass shattering
+                SFX: Glass shattering
 __Tails__: I like you cut G  
-__Tails__: *slaps* __Anton__: (screaming painfully)  
+[Tails slaps Anton]  
+__Anton__: (screaming painfully)  
 __Lenka__ (screaming): SIX SEVEEEENNNNNNN  
-__Lenka__: (commits arson and other warcrimes against humanity in the of 67)  
-        TEXT: END OF CHAPTER
+[Lenka commits arson and other warcrimes against humanity in the name of 67]
+                
+                TEXT: END OF CHAPTER
