@@ -41,7 +41,13 @@ Example:
 
 __Tails__: I think we have arrived.  
 
-## 5. Script Template Example:
+## 5. Pronunciation
+Some words can be hard to understand, hence after some questional words, there might be doube brackets to mark how you should pronounce that word.
+Example:
+
+__Tails__: I'm sick and tired. Let me rm -rf ((R M dash R F)) this mf
+
+## 6. Script Template Example:
 ## Episode: The Bread Riot 
 
 
@@ -53,6 +59,7 @@ __Tails__: I like you cut G
 __Anton__: (screaming painfully)  
 __Lenka__ (screaming): SIX SEVEEEENNNNNNN  
 [Lenka commits arson and other warcrimes against humanity in the name of 67]
+__Tails__: I'm sick and tired. Let me rm -rf ((R M dash R F)) this mf
                 
                 
                 TEXT: END OF CHAPTER
