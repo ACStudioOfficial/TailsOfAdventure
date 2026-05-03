@@ -6,7 +6,7 @@ This is a public repository of a web-series, called "Tails of Adventure", where 
 However, due to some file incompatabilities and our goals for our series, our repository is mostly empty. In a future, that would be changed
 
 ## What's currently in progress ? (TODO LIST)
-- [ ] Rewrite season 1 scripts to .md for Git
+- [x] Rewrite season 1 scripts to .md for Git
 - [ ] Write a coherent documentation
 - [ ] Make reference sheets for characters
 - [ ] Make a serie's open Bible
