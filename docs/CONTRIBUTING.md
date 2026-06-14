@@ -8,7 +8,7 @@ a typo in a script to suggesting a complex world-building mechanic.
 
 ## 1. Before You Start
 
-* Read the Series Bible: `docs/BIBLE.md`
+* Read the Series Bible: `openbible/OpenBible.md`
 * Read the Script Format: `docs/FORMATTING.md`
 * Read the Code of Conduct: `CODE_OF_CONDUCT.md`
 
