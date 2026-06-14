@@ -9,8 +9,8 @@ CC BY-NC-SA 4.0.
 Quick Start
 -----------
 
-* Watch the series: [https://www.youtube.com/@acstudiofficial](https://www.youtube.com/@acstudiofficial)
-* Report a lore issue: Open an Issue on GitLab
+* Watch the series: https://www.youtube.com/@acstudiofficial
+* Report a lore issue: Open an Issue on GitLab/GitHub
 * Contribute: See docs/CONTRIBUTING.md
 * License: See COPYING
 
@@ -60,7 +60,7 @@ Help us build the universe:
 * Series Bible: docs/BIBLE.md
 * Canon policy: docs/CONTRIBUTING.md
 * Script format: docs/FORMATTING.md
-* Open an issue: GitLab Issues tab
+* Open an issue: GitLab Issues tabv.0.3.1 Edited README, because I'm an idiot
 * Code of Conduct: CODE_OF_CONDUCT.md
 
 
@@ -72,7 +72,7 @@ Write episodes and story arcs:
 * Script format standard: docs/FORMATTING.md
 * Series Bible: docs/BIBLE.md
 * Existing scripts: scripts/
-* Submission: via Pull Request on GitLab
+* Submission: via Pull Request on GitLab/GitHub
 
 
 Artist
@@ -113,10 +113,10 @@ The repository is actively being built. Current progress:
 Communication
 =============
 
-* YouTube: [https://www.youtube.com/@acstudiofficial](https://www.youtube.com/@acstudiofficial)
-* GitLab: [https://gitlab.com/ACStudioOfficial/TailsOfAdventure](https://gitlab.com/ACStudioOfficial/TailsOfAdventure)
-* GitHub Mirror: [https://github.com/ACStudioOfficial/TailsOfAdventure](https://github.com/ACStudioOfficial/TailsOfAdventure)
-* Issues: GitLab Issues tab
+* YouTube: https://www.youtube.com/@acstudiofficial
+* GitLab: https://gitlab.com/ACStudioOfficial/TailsOfAdventure)
+* GitHub Mirror: https://github.com/ACStudioOfficial/TailsOfAdventure
+* Issues: GitLab/GitHub Issues tab
 
 
 License
