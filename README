@@ -1,0 +1,128 @@
+Tails of Adventure
+==================
+
+Tails of Adventure is an open-source animated web series built on
+FLOSS principles. It manages its own lore, characters, and scripts
+as source code - free to study, modify, and redistribute under
+CC BY-NC-SA 4.0.
+
+Quick Start
+-----------
+
+* Watch the series: [https://www.youtube.com/@acstudiofficial](https://www.youtube.com/@acstudiofficial)
+* Report a lore issue: Open an Issue on GitLab
+* Contribute: See docs/CONTRIBUTING.md
+* License: See COPYING
+
+Essential Documentation
+-----------------------
+
+All contributors should be familiar with:
+
+* Series Bible: docs/BIBLE.md
+* Script Format: docs/FORMATTING.md
+* Code of Conduct: CODE_OF_CONDUCT.md
+* Contributing Guide: docs/CONTRIBUTING.md
+* Credits: CREDITS
+
+
+Who Are You?
+============
+
+Find your role below:
+
+* Casual Viewer - You just want to watch the series
+* Lore Contributor - Fixing errors, suggesting world-building ideas
+* Script Writer - Writing episodes or story arcs
+* Artist - Character design and reference sheet work
+* Fork Creator - Building your own derivative series
+
+
+For Specific Users
+==================
+
+
+Casual Viewer
+-------------
+
+Welcome! Start here:
+
+* Watch the series: https://www.youtube.com/@acstudiofficial
+* Series order: docs/WATCHING_ORDER.md
+* What is this repository: docs/BIBLE.md
+
+
+Lore Contributor
+----------------
+
+Help us build the universe:
+
+* Series Bible: docs/BIBLE.md
+* Canon policy: docs/CONTRIBUTING.md
+* Script format: docs/FORMATTING.md
+* Open an issue: GitLab Issues tab
+* Code of Conduct: CODE_OF_CONDUCT.md
+
+
+Script Writer
+-------------
+
+Write episodes and story arcs:
+
+* Script format standard: docs/FORMATTING.md
+* Series Bible: docs/BIBLE.md
+* Existing scripts: scripts/
+* Submission: via Pull Request on GitLab
+
+
+Artist
+------
+
+Design characters and reference sheets:
+
+* Tails: assets/references/tails.png
+* Wey: assets/references/wey.png
+* Anton: assets/references/anton.png
+* Lenka: assets/references/lenka.png
+* Ashley: assets/references/ashley.png
+
+
+Fork Creator
+------------
+
+Build your own derivative series:
+
+* License: COPYING
+* Canon policy: Forks are non-canon unless merged by BDFL
+* Commercial exceptions: Contact ACStudio directly
+* Contributing guide: docs/CONTRIBUTING.md
+
+
+Current Status
+==============
+
+The repository is actively being built. Current progress:
+
+- [x] Rewrite season 1 scripts to .md for Git
+- [x] Write a coherent documentation
+- [ ] Make reference sheets for characters (Work in Progress)
+- [x] Make a serie's open Bible
+- [x] Reformat our repository to be a bit better
+- [ ] Finalize the repository
+
+Communication
+=============
+
+* YouTube: [https://www.youtube.com/@acstudiofficial](https://www.youtube.com/@acstudiofficial)
+* GitLab: [https://gitlab.com/ACStudioOfficial/TailsOfAdventure](https://gitlab.com/ACStudioOfficial/TailsOfAdventure)
+* GitHub Mirror: [https://github.com/ACStudioOfficial/TailsOfAdventure](https://github.com/ACStudioOfficial/TailsOfAdventure)
+* Issues: GitLab Issues tab
+
+
+License
+=======
+
+Tails of Adventure is licensed under CC BY-NC-SA 4.0.
+See COPYING for the full license text.
+
+SPDX-License-Identifier: CC-BY-NC-SA-4.0

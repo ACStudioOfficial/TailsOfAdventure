@@ -1,68 +1,76 @@
 # Code of Conduct & Project Policy
-This document defines the architectural boundaries and interaction protocols for the Tails of Adventure series. All contributors and participants are required to operate within these constraints.  
 
-1. Development & Contributor Constraints
+This document defines the rules and boundaries for everyone involved
+with Tails of Adventure - contributors, community members, and
+anyone interacting with the project in any capacity.
 
-1.1) To ensure legal compliance and project integrity, all contributors MUST be 18 years of age or older.  
+---
 
-1.2) Content Rating: The series maintains a strict 16+ rating.  
-The project will not degrade its narrative or visual quality to accommodate lower age demographics. All distribution nodes (mirrors, YouTube, etc.) must be tagged with appropriate age-gates.
+## 1. Who Can Contribute
 
-2. Safety & Compliance
+All contributors must be 18 years of age or older. This is a hard
+limit with no exceptions. Violations result in an immediate and
+permanent ban.
 
-2.1) To avoid "proshipping" conflicts and legal risks, NO characters under the biological or chronological age of 18 shall be featured in the core series.
-    
-2.2) Direct naming of existing sovereign states is prohibited.
+---
 
-2.3) LGBTQ+ representation is permitted provided it is logically integrated into the character’s architecture. Tokenism is considered "redundant code" and will be rejected.
+## 2. Content Standards
 
-2.4) The "Vanilla" branch of the project is not recommended for distribution in jurisdictions with restrictive media laws (e.g., Mainland China, Russia, Iran, North Korea).
+The series maintains a strict 16+ rating. We will not water down
+the narrative to accommodate lower age groups. All platforms
+distributing this series (YouTube, mirrors, etc.) must apply
+appropriate age restrictions.
 
-        WARNING: Accessing this content in restricted regions is the sole responsibility of the end-user.
+**Characters:** No characters under the age of 18 will appear in
+the core series. No exceptions, no edge cases.
 
-3. Community Interaction Protocol
+**Countries:** Direct naming of real sovereign states is not
+allowed. Any references to real-world nations must be written
+in a way that remains meaningful even if the name is changed.
 
-3.1) Debate the logic, not the person. Ad hominem attacks are non-optimized communication and will be terminated.
+**LGBTQ+ representation** is welcome, provided it serves the
+character and story authentically. If it feels like a checkbox,
+it will be rejected.
 
-3.2) This is a creative and technical repository. Posting explicit (NSFW/Erotica) content is a violation of the code of conduct and results in an immediate ban.
+**Politics:** Political discussion, propaganda, or advocacy of
+any kind is strictly prohibited in all project spaces, like issues,
+pull requests, discussions, and community channels. Violations will be
+removed without warning.
 
-3.3) Harassment or degradation based on race, gender, orientation, disability, or origin is strictly prohibited. We build a series; we do not deconstruct individuals.
+**Regional advisory:** The vanilla version of this series is not
+recommended for viewers in jurisdictions with restrictive media
+laws (e.g., Mainland China, Russia, Iran, North Korea). **Accessing
+this content in restricted regions is the sole responsibility of
+the end-user.**
 
-3.4) Do not flood issues or pull requests with irrelevant content. Keep the "log files" (discussions) clean and focused on project goals.
+---
 
+## 3. Community Rules
 
+**Be civil.** Disagree with ideas, not people. Personal attacks
+are not welcome here.
 
+**No explicit content.** This is a creative and technical
+repository. Posting NSFW or explicit material of any kind results
+in an immediate ban.
 
+**No harassment.** Targeting anyone based on race, gender,
+orientation, disability, or origin is strictly prohibited.
+We build things here. We do not tear people down.
 
+**Stay on topic.** Keep issues, pull requests, and discussions
+focused on the project. Spam and off-topic flooding will be
+removed.
 
+**No politics.** See Section 2. This applies everywhere -
+in content and in conversation.
 
+---
 
+## 4. Enforcement
 
+All violations are handled at the discretion of the BDFL,
+Peter Nikitenko (ACStudio). Decisions are final.
 
-
-
-
-In this document, we've layed out the core principles and rules of contributing to our series  
-
-1.  Content Rating (Hard Limit): The series is strictly rated 16+. The project WILL NOT self-censor or content degradation to account lower age demographics. 
-    * Implementation: All distribution nodes (YouTube, mirrors) MUST be tagged with appropriate age-gates.
-2.  Contributor Eligibility: To maintain legal compliance and project integrity, all contributors **MUST** be 18 years of age or older. Violation of this constraint results in an immediate and permanent ID ban.
-
-This series is developed by a diverse team of individuals from various cultural and personal backgrounds, so it's essential to clearly define boundaries regarding what is and isn't acceptable content.
-* First and foremost, no characters under the age of 18 will be included to avoid any accusations of "proshipping". This topic has been addressed before, so there's no need to go into further detail here.
-* Secondly, the series will avoid directly naming specific countries. While references may be made, they must be adaptable so that changing the country’s name won’t alter the meaning or context. This decision stems from sensitivities related to the creator's country of origin, where geopolitical issues are particularly sensitive.
-* Thirdly, LGBTQ representation is allowed, but we must handle it with care, ensuring it's thoughtfully and respectfully integrated.
-* Finally, while this series is intended for an international audience, the "vanilla" version is not recommended for release in countries with more strict rules towards online media, such as Mainland China, Russia, Iran, North Korea and so on. This is simply a precaution, as the series sticks to the "The viewer alone is responsible for what he watches."
-
-
-4. Community Interaction Protocol (General Rules)
-
-We treat our community like a high-performance system. Noise, bugs, and malicious injections are filtered out to maintain stability.
-
-    Zero Tolerance for Toxicity: Respect your fellow contributors. Debate the logic, not the person. "Ad hominem" attacks are considered non-optimized communication and will be terminated.
-
-    No NSFW/Erotica: This is a technical and creative repository, not an adult board. Posting explicit content (text, images, or links) is a violation of the project’s "Core Integrity" and results in an immediate ban.
-
-    Anti-Harassment (Human Rights Guardrail): Harassment, bullying, or degradation based on race, gender, orientation, disability, or origin is strictly prohibited. We are here to build a series, not to deconstruct individuals.
-
-    No Spam/Garbage Collection: Do not flood issues or pull requests with irrelevant content. Keep the "log files" (discussions) clean and focused on the project.
+Significant moderation decisions will be documented publicly
+in the repository in the interest of transparency.
