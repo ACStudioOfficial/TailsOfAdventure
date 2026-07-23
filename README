@@ -11,7 +11,7 @@ Quick Start
 
 * Watch the series: https://www.youtube.com/@acstudiofficial
 * Report a lore issue: Open an Issue on GitLab/GitHub
-* Contribute: See docs/CONTRIBUTING.md
+* Contribute: See Documentation/contributing.md
 * License: See COPYING
 
 Essential Documentation
@@ -19,10 +19,10 @@ Essential Documentation
 
 All contributors should be familiar with:
 
-* Series Bible: docs/BIBLE.md
-* Script Format: docs/FORMATTING.md
-* Code of Conduct: CODE_OF_CONDUCT.md
-* Contributing Guide: docs/CONTRIBUTING.md
+* Series Bible: openbible/openbible.md
+* Script Format: Documentation/formatting.md
+* Code of Conduct: Documentation/code-of-conduct.md
+* Contributing Guide: Documentation/contributing.md
 * Credits: CREDITS
 
 
@@ -48,7 +48,7 @@ Casual Viewer
 Welcome! Start here:
 
 * Watch the series: https://www.youtube.com/@acstudiofficial
-* What is this repository: openbible/OpenBible.md
+* What is this repository: openbible/openbible.md
 
 
 Lore Contributor
@@ -56,11 +56,11 @@ Lore Contributor
 
 Help us build the universe:
 
-* Series Bible: openbible/OpenBible.md
-* Canon policy: docs/CONTRIBUTING.md
-* Script format: docs/FORMATTING.md
+* Series Bible: openbible/openbible.md
+* Canon policy: Documentation/contributing.md
+* Script format: Documentation/formatting.md
 * Open an issue: GitLab/GitHub Issues
-* Code of Conduct: docs/CODE_OF_CONDUCT.md
+* Code of Conduct: Documentation/code-of-conduct.md
 
 
 Script Writer
@@ -68,8 +68,8 @@ Script Writer
 
 Write episodes and story arcs:
 
-* Script format standard: docs/FORMATTING.md
-* Series Bible: openbible/OpenBible.md
+* Script format standard: Documentation/formatting.md
+* Series Bible: openbible/openbible.md
 * Existing scripts: scripts/
 * Submission: via Pull Request on GitLab/GitHub
 
@@ -94,7 +94,7 @@ Build your own derivative series:
 * License: COPYING
 * Canon policy: Forks are non-canon unless merged by BDFL
 * Commercial exceptions: Contact ACStudio directly
-* Contributing guide: docs/CONTRIBUTING.md
+* Contributing guide: Documentation/contributing.md
 
 
 Current Status

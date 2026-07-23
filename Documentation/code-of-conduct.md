@@ -1,47 +1,37 @@
 # Code of Conduct & Project Policy
 
-This document defines the rules and boundaries for everyone involved
-with Tails of Adventure - contributors, community members, and
+This document defines the rules and boundaries for everyone involved with Tails of Adventure - contributors, community members, and
 anyone interacting with the project in any capacity.
 
 ---
 
 ## 1. Who Can Contribute
 
-All contributors must be 18 years of age or older. This is a hard
-limit with no exceptions. Violations result in an immediate and
-permanent ban.
+All contributors must be 18 years of age or older. This is a hard limit with no exceptions. Violations result in an immediate and permanent ban.
 
 ---
 
 ## 2. Content Standards
 
-The series maintains a strict 16+ rating. We will not water down
-the narrative to accommodate lower age groups. All platforms
+The series maintains a strict 16+ rating. We will not water down the narrative to accommodate lower age groups. All platforms
 distributing this series (YouTube, mirrors, etc.) must apply
 appropriate age restrictions.
 
-**Characters:** No characters under the age of 18 will appear in
-the core series. No exceptions, no edge cases.
+**Characters:** No characters under the age of 18 will appear in the core series. No exceptions, no edge cases.
 
 **Countries:** Direct naming of real sovereign states is not
 allowed. Any references to real-world nations must be written
 in a way that remains meaningful even if the name is changed.
 
 **LGBTQ+ representation** is welcome, provided it serves the
-character and story authentically. If it feels like a checkbox,
-it will be rejected.
+character and story authentically. If it feels like a checkbox, it will be rejected.
 
 **Politics:** Political discussion, propaganda, or advocacy of
-any kind is strictly prohibited in all project spaces, like issues,
-pull requests, discussions, and community channels. Violations will be
-removed without warning.
+any kind is strictly prohibited in all project spaces, like issues, pull requests, discussions, and community channels. Violations will be removed without warning.
 
-**Regional advisory:** The vanilla version of this series is not
-recommended for viewers in jurisdictions with restrictive media
-laws (e.g., Mainland China, Russia, Iran, North Korea). **Accessing
-this content in restricted regions is the sole responsibility of
-the end-user.**
+**Regional advisory:** The vanilla version of this series is not recommended for viewers in jurisdictions with restrictive media laws (e.g., Mainland China, Russia, Iran, North Korea).
+
+ **Accessing this content in restricted regions is the sole responsibility of the end-user.**
 
 ---
 
