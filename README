@@ -79,11 +79,11 @@ Artist
 
 Design characters and reference sheets:
 
-* Tails: characters/tails/TailsRefSheet.png
-* Wey: characters/tails/WeyRefSheet.png
-* Anton: characters/tails/AntonRefSheet.png
-* Lenka: characters/tails/LenkaRefSheet.png
-* Ashley: characters/tails/AshleyRefSheet.png
+* Tails: characters/tails/tails-ref-sheet.png
+* Wey: characters/wey/wey-ref-sheet.png
+* Anton: characters/anton/anton-ref-sheet.png
+* Lenka: characters/lenka/lenka-ref-sheet.png
+* Ashley: characters/ashley/ashley-ref-sheet.png
 
 
 Fork Creator
@@ -104,10 +104,10 @@ The repository is actively being built. Current progress:
 
 - [x] Rewrite season 1 scripts to .md for Git
 - [x] Write a coherent documentation
-- [ ] Make reference sheets for characters (Work in Progress)
+- [x] Make reference sheets for characters
 - [x] Make a serie's open Bible
 - [x] Reformat our repository to be a bit better
-- [x] Finalize the repository (currently we're fixing up some mistakes, but the layout is done)
+- [ ] Finalize the repository (currently we're fixing up some mistakes, but the layout is done)
 
 Communication
 =============
