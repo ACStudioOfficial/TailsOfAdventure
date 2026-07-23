@@ -1,4 +1,4 @@
-## Script Formatting Standard (Tails Script Format)
+## Script Formatting Standard (ACStudio Script Format (ACSF for short))
 
 To ensure that "Tails of Adventure" scripts are consistent, easy to read, and automation-friendly, we follow a strict markup format.
 
@@ -11,7 +11,7 @@ Every line of dialogue is constructed using the following formula:
 `__Name__ (Modifier): Speech text[Space][Space]`
 
 ### Formatting Rules:
-1. **Name:** Must be bolded using double underscores on both sides: `__Tails__`.
+1. **Name:** Must be bolded, using double underscores on both sides: `__Tails__`.
 2. **Modifier (Optional):** If the character’s speech is altered (screaming, whispering, crying), add it in parentheses after the name: `__Lenka__ (screaming):`. It can be also placed mid-sentence or other parts to mark that text after it is affected by that modifier
 3. **Punctuation:** A colon followed by a space MUST come after the name/modifier.
 4. **Line Termination:** Each dialogue line __MUST__ end with a double space instead of a period. This ensures a "soft wrap" in Markdown.  

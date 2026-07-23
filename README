@@ -48,8 +48,7 @@ Casual Viewer
 Welcome! Start here:
 
 * Watch the series: https://www.youtube.com/@acstudiofficial
-* Series order: docs/WATCHING_ORDER.md
-* What is this repository: docs/BIBLE.md
+* What is this repository: openbible/OpenBible.md
 
 
 Lore Contributor
@@ -57,11 +56,11 @@ Lore Contributor
 
 Help us build the universe:
 
-* Series Bible: docs/BIBLE.md
+* Series Bible: openbible/OpenBible.md
 * Canon policy: docs/CONTRIBUTING.md
 * Script format: docs/FORMATTING.md
-* Open an issue: GitLab Issues tabv.0.3.1 Edited README, because I'm an idiot
-* Code of Conduct: CODE_OF_CONDUCT.md
+* Open an issue: GitLab/GitHub Issues
+* Code of Conduct: docs/CODE_OF_CONDUCT.md
 
 
 Script Writer
@@ -70,7 +69,7 @@ Script Writer
 Write episodes and story arcs:
 
 * Script format standard: docs/FORMATTING.md
-* Series Bible: docs/BIBLE.md
+* Series Bible: openbible/OpenBible.md
 * Existing scripts: scripts/
 * Submission: via Pull Request on GitLab/GitHub
 
@@ -80,11 +79,11 @@ Artist
 
 Design characters and reference sheets:
 
-* Tails: assets/references/tails.png
-* Wey: assets/references/wey.png
-* Anton: assets/references/anton.png
-* Lenka: assets/references/lenka.png
-* Ashley: assets/references/ashley.png
+* Tails: characters/tails/TailsRefSheet.png
+* Wey: characters/tails/WeyRefSheet.png
+* Anton: characters/tails/AntonRefSheet.png
+* Lenka: characters/tails/LenkaRefSheet.png
+* Ashley: characters/tails/AshleyRefSheet.png
 
 
 Fork Creator
@@ -108,13 +107,13 @@ The repository is actively being built. Current progress:
 - [ ] Make reference sheets for characters (Work in Progress)
 - [x] Make a serie's open Bible
 - [x] Reformat our repository to be a bit better
-- [ ] Finalize the repository
+- [x] Finalize the repository (currently we're fixing up some mistakes, but the layout is done)
 
 Communication
 =============
 
 * YouTube: https://www.youtube.com/@acstudiofficial
-* GitLab: https://gitlab.com/ACStudioOfficial/TailsOfAdventure)
+* GitLab: https://gitlab.com/ACStudioOfficial/TailsOfAdventure
 * GitHub Mirror: https://github.com/ACStudioOfficial/TailsOfAdventure
 * Issues: GitLab/GitHub Issues tab
 

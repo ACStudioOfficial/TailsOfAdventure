@@ -8,9 +8,9 @@ a typo in a script to suggesting a complex world-building mechanic.
 
 ## 1. Before You Start
 
-* Read the Series Bible: `openbible/OpenBible.md`
-* Read the Script Format: `docs/FORMATTING.md`
-* Read the Code of Conduct: `CODE_OF_CONDUCT.md`
+* Read the Series Bible: `openbible/openbible.md`
+* Read the Script Format: `Documentation/formatting.md`
+* Read the Code of Conduct: `Documentation/code-of-conduct.md`
 
 These three documents define the universe. Everything else follows from them.
 
@@ -36,8 +36,8 @@ That's it. GitLab handles the rest.
 
 ## 3. For Writers and Lore Contributors
 
-* All scripts MUST follow `docs/FORMATTING.md`
-* All lore MUST be consistent with `docs/BIBLE.md`
+* All scripts MUST follow `Documentation/formatting.md`
+* All lore MUST be consistent with `openbible/openbible.md`
 * Markdown (`.md`) only, meaning no `.docx`, no `.pdf`, no proprietary formats
 * Submit via Pull Request, or discuss in Issues first if unsure
 
@@ -50,14 +50,13 @@ canon. Forks are non-canon unless explicitly merged by the BDFL.
 
 * Reference sheets must be submitted in `.png` or `.svg` format
 * Style must be consistent with existing reference sheets
-* By submitting art, you confirm you hold the rights to the work
-* See `docs/ART_GUIDELINES.md` for visual consistency rules
+* By submitting art, you confirm you hold the rights to the works
 
 ---
 
 ## 5. Our Tech Stack
 
-To keep the project sovereign and accessible, we use only
+To keep the project accessible, we use mainly
 FLOSS (Free/Libre Open Source Software):
 
 **Production:**
@@ -87,9 +86,9 @@ to view, edit, or reproduce.
    open-source tool, we cannot use it.
 
 3. **Follow the script format.** Submissions that ignore
-   `docs/FORMATTING.md` will be returned for revision.
+   `Documentation/formatting.md` will be returned for revision.
 
-4. **Follow the Code of Conduct.** See `CODE_OF_CONDUCT.md`.
+4. **Follow the Code of Conduct.** See `Documentation/code-of-conduct.md`.
 
 ---
 
