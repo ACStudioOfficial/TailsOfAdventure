@@ -70,4 +70,31 @@ Also, as the verification method, the team also gave a name, which is based on a
 This season is the beginning of “Tails of Adventure”, so Tails, Wey and Anton doesn’t even know what they want nor what they must do, so they just show up their personalities: Tails has a god complex (But not so bright as to consider Tails a complete loser), Wey says little, and if she does, it’s only to tease Tails like she’s used to, and Anton is impulsive. With these characteristics, they actually complete missions with the help of luck, but later, that “toxicity” in their group forces Tails to accidentally hurt Wey in the most painful way, by mentioning her mother, which leaves Wey in tears, and she runs away. Tails comes up to her door and asks her for forgiveness, which she doesn’t accept. Tails starts to list all the things they had done in a childhood, making Tails cry, showcasing that Tails and Wey come a long way together and leaving each other like that is not permissible. Eventually, Wey forgives Tails. From that point, Tails and Wey became more self-aware, while nothing happened to Anton. They continued completing missions, not using luck, but how they were intended. It seems that they finally got over and started to look more like a normal team. In the pre-last episode of the season 1, during a mission, Tails got captured and everyone started to get worried, especially Ashley and Wey. At the end of that episode, Tails finds a way how to connect to a team and asked them for forgiveness, since he was naive and childish. The rest of the teams does the same. In the last episode of the season 1, they launch an operation to save Tails. Meantime, Tails tries to escape by himself, and he was successful. After that, the whole team reevaluates their relationships.
 
 ## Season 2 vision:
-Hasn’t been finalized (WIP)
+
+EP 1-2: “Normal” Missions, Tension Bubbles
+The crew starts the season more professional, they’re working like a real team, but something’s off: their missions feel too “clean,” too perfect. Tails notices they’re not being told what the missions are for anymore. Ashley gets strange messages from higher-ups. Oblique. Coded. Uncomfortable. Anton and Wey begin to clash philosophically, Wey trusts the system more than Anton does.
+
+EP 3-4: The Forbidden Plan
+A mission is assigned: recover a briefcase marked “N-13.” Nook Inc. says: “You are NOT to open this. Doing so will be considered treason.” They recover it. Mission goes well, but as they leave, they’re not paid immediately. This has never happened before. Anton quietly places a tracker in the case before turning it in.
+
+EP 5: Division
+Anton and Wey argue over ethics and secrecy. Tails stays quiet, disturbingly so. Anton’s tracker pings: the case was rerouted to a Nook Inc. underground facility. Ashley confesses to seeing schematics for something called “Sky Dust Protocol.” Lenka jokes, “What if we just committed a war crime without knowing?” The group starts secretly planning a break-in to retrieve what they gave away.
+
+EP 6: The Real Betrayal
+Ashley is torn between duty and loyalty. Wey pushes her to stay loyal. Tails says nothing. Anton hacks in, finds partial files. Project Sky Dust = Global communications shutdown via AI EMP grid. Lenka’s used as a distraction again (but it emotionally drains her this time -no one takes her seriously). They discover a ghost signature on the files, a signature from Snow.
+
+EP 7-8: Nook’s Real Plan
+They realize Nook Inc. knew about Snow all along. Nook Inc. is using him or being used. Ashley breaks them into a secure vault, finds logs of pre-recorded orders from “Chairman Nook,” whose physical location is unknown. The plans are a decoy: Project Sky Dust is real, but it’s already been activated, a countdown has started. Wey is confronted with the fact she supported this blindly. Tails finally breaks down: “I thought we were building something. We were just patching over rot.”
+EP 9: “Broken Trust”
+The crew fractures. Lenka refuses to follow orders. Anton wants to go public. Wey still wants to finish the mission. Tails suggests the unthinkable: go to Snow and bargain for intel. Ashley says no, but she can’t stop them. They split into 2 groups: Tails, Anton, and Lenka leave. Ashley and Wey stay.
+
+EP 10: “The Meeting”
+Tails meets Snow. Snow says, “I’m not your enemy. Your enemy is whoever let you believe you had a choice.” Snow reveals he leaked the decoy on purpose, he wanted to see if they’d do the right thing. He gives Tails a copy of the actual Sky Dust override code, but only if Tails agrees to broadcast Snow’s manifesto to the world. Tails agrees and doesn’t tell the others.
+
+EP 11: “Before the Storm”
+The crew reunites, strained but united. They plan their final move. Everyone thinks they’re saving the world. No one realizes Tails is about to broadcast Snow’s manifesto globally. Wey has a moment of doubt. Anton wants out. Ashley says “We’re too far in.” Lenka, scared but brave, makes a copy of the real plans and hides it.
+
+EP 12 (Finale): “Echoes”
+The plan works: Sky Dust is stopped, but Snow’s message plays across every major network -blaming the world governments, Nook Inc., and even the mercenary crews for complicity in global control. Chaos erupts worldwide. The crew stands over a burning facility. 
+Anton: “What did we just do?” 
+Tails (calmly): “We told the truth.”
